@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Boogaloo-Regular.ttf",
+      "sha1": "db3eaf8e7f3d28ca51aadb9d74f149623a49c440"
+    },
+    {
+      "path": "assets/fonts/FredokaOne-Regular.ttf",
+      "sha1": "c4377bea37b4f84e6d2183741664025d5cecef3e"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "1a821896843ac02d6614d9b695fc5555b98c219d"
+    },
+    {
+      "path": "assets/fonts/Play-Bold.ttf",
+      "sha1": "394247c9a5eeded939cf9d78b30687495b36f0dd"
+    },
+    {
+      "path": "assets/fonts/Play-Regular.ttf",
+      "sha1": "1597823ffd9c3a555b5081c7394ff0347adfbdbc"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/TitilliumWeb-Regular.ttf",
+      "sha1": "c1d91bd86751bd0a186ac0323dcf47de4d0c0981"
+    },
+    {
+      "path": "assets/fonts/Viga-Regular.ttf",
+      "sha1": "bad34f2b54650993d29b6f0a115b9865c336774b"
+    }
+  ]
+}

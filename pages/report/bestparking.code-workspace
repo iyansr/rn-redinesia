@@ -1,0 +1,73 @@
+{
+	"folders": [
+		{
+			"path": "../../../bestparking"
+		},
+		{
+			"path": "../../../campaignapps"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"name": "api-campaign-project",
+			"path": "../../../api-campaign-project"
+		},
+		{
+			"path": "../../../mas/Mobile"
+		},
+		{
+			"path": "../../../mytimses-middleware-new"
+		},
+		{
+			"path": "../../../apigw1-patch"
+		},
+		{
+			"path": "../../../mytimsescapres"
+		},
+		{
+			"path": "../../../aranapos/MOBILE"
+		},
+		{
+			"path": "../../../relawanku"
+		},
+		{
+			"path": "../../../mytimsespartai"
+		},
+		{
+			"path": "../../../mainpurposes"
+		},
+		{
+			"path": "../../../mytimsesweb"
+		},
+		{
+			"path": "../../../../Downloads/Wingo-Theme"
+		},
+		{
+			"path": "../../../mytimsesregister"
+		},
+		{
+			"path": "../../../mytimsesdashboard"
+		},
+		{
+			"path": "../../../efiducia2"
+		},
+		{
+			"path": "../../../masoffice-dev"
+		},
+		{
+			"path": "../../../gadgetSehatApp"
+		},
+		{
+			"path": "../../../../Downloads/GadgetSehat"
+		},
+		{
+			"path": "../../../phayol"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"javascript.validate.enable": false,
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
